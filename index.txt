@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello welcome to index version two and lets go on
+=======
+Hello welcome to index version two
+ok lets do some work
+>>>>>>> b3df2e1d993c72f08d210042b114f2df70d065b8
